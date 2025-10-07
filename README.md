@@ -49,7 +49,7 @@ The goal was to design a dynamic dashboard that delivers clear business insights
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](https://github.com/Ankit-0229/Amazon-Sales-PowerBI-Dashboard/blob/main/Screenshot%202025-06-09%20172511.png)
+![Amazon Sales Dashboard](https://github.com/Ankit-0229/Amazon-Sales-PowerBI-Dashboard/blob/main/Dashboard_preview.png)
 
 ---
 
