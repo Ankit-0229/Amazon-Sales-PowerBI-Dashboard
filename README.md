@@ -1,49 +1,80 @@
-# Amazon Sales Analysis Dashboard
-This project presents a comprehensive Sales Analysis Dashboard for Amazon Products, created using Power BI. The dashboard visualizes year-to-date (YTD) performance across various sales metrics, helping stakeholders understand key trends and make data-driven decisions.
+# 📊 Amazon Sales Power BI Dashboard
 
-Overview
-The dashboard analyzes Amazon product sales and showcases insights such as:
+An interactive **Power BI Dashboard** built to analyze **Amazon product sales and performance** across multiple categories.  
+The dashboard helps visualize sales trends, revenue contribution, and customer engagement using real-world sales data.
 
-YTD Sales: $2.18M,
-Quarterly Sales: $811.09K,
-Products Sold (YTD): 27.75K,
-Customer Reviews (YTD): 19.42M.
+---
 
-Key Visuals
-Sales by Month: Line chart showing monthly performance trend,
-Sales by Week: Bar chart showing weekly sales volume,
-Product Category Breakdown: Tabular view of YTD & Quarterly sales, including % contribution,
-Top Products by YTD Sales: Bar chart of top 5 products driving sales,
-Top Products by YTD Reviews: Review-based performance of leading products.
+## 🎯 Project Overview
 
-Categories Analyzed
-Product Category	YTD Sales	Qtr Sales	% YTD Contribution
-Men Shoes	$940,266	$325,090	43.18% , 
-Camera	$492,521	$188,381	22.62% , 
-Men Clothes	$357,644	$136,700	16.42% , 
-Car Accessories	$237,290	$91,359	10.90% , 
-Toys	$110,839	$30,382	5.09% , 
-Mobile & Accessories	$39,178	$39,178	1.80% , 
-Total	$2.17M	$811K	100%
+This project focuses on analyzing **Amazon Sales Data** using **Power BI** and **Excel**.  
+The dataset contains over **40,000+ sales records**, including details such as product categories, prices, quantities, and customer reviews.  
+The goal was to design a dynamic dashboard that delivers clear business insights and performance metrics.
 
-Tools Used
-Power BI for dashboard development , 
-Microsoft Excel / CSV as data source , 
-DAX & Power Query for data transformation
+---
 
-Features
-Interactive slicers for Product and Quarter filters
-Visual storytelling for executive-level summaries
-Highlight of top-performing products and categories
+## 🚀 Key Insights & Features
 
-🙋‍♂️ Author | 
-Ankit Kumar Yadav | 
-BCA in AI | Data Analyst Learner 
+-  **Total YTD Sales:** $2.18M  
+-  **Quarterly Sales:** $811.09K  
+-  **Total Products Sold:** 27.75K  
+-  **Total Reviews:** 19.42M  
+-  **Top Category:** Men’s Shoes (43.18% of total sales)  
+-  **Sales Trends:** Interactive charts by month and week  
+-  **Top 5 Products by Sales & Reviews**  
+-  **Dynamic Filters:** Product category and quarter  
 
-Connect on LinkedIn | www.linkedin.com/in/ankityadav022
- Dashboard preview  = https://github.com/Ankit-0229/Amazon_Sales_Dashboard/blob/main/Screenshot%202025-06-09%20172511.png
+---
 
+## 🧰 Tools & Technologies
 
+- **Power BI** → Data modeling, visualization, KPI tracking  
+- **Excel** → Data cleaning, preprocessing, and formatting  
+
+---
+
+## 🧱 Workflow
+
+1. **Data Cleaning (Excel):**  
+   - Removed missing values, duplicates, and standardized product categories.  
+2. **Data Loading (Power BI):**  
+   - Imported cleaned dataset into Power BI for transformation.  
+3. **Dashboard Design:**  
+   - Created visuals including KPIs, line charts, and bar charts.  
+   - Added slicers for **Category** and **Quarter** filters.  
+4. **Insight Generation:**  
+   - Identified top-performing categories and products.  
+
+---
+
+## 📸 Dashboard Preview
+
+![Amazon Sales Dashboard](https://github.com/Ankit-0229/Amazon-Sales-PowerBI-Dashboard/blob/main/Screenshot%202025-06-09%20172511.png)
+
+---
+
+## 💡 Key Finding
+
+👟 **Men’s Shoes** contributed approximately **43% of total YTD sales**, making it the top revenue-generating category.
+
+---
+
+## 🧠 Learnings
+
+- Improved skills in **Power BI dashboard design and visualization**  
+- Gained experience in **Excel-based data cleaning and structuring**  
+- Enhanced ability to extract **business insights from raw data**
+
+---
+
+## 👨‍💻 Author
+
+**Ankit Yadav**  
+🎓 BCA Student | 💼 Aspiring Data Analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankityadav-data)  
+💻 [GitHub](https://github.com/Ankit-0229)
+
+---
 
 
 
